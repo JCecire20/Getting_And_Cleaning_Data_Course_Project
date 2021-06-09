@@ -1,11 +1,11 @@
-### Code Book
+# Code Book
 
 ## Variables
 
 - subject - subject identifier of volunteer (1-30)
 - activity - name of activity performed by subject (LAYING, SITTING, STANDING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
 
-# The variables remaining are just the calculatd means and standard deviations: 
+### The variables remaining are just the calculatd means and standard deviations: 
 
 - TimeBodyAccelerometer.mean...X
 - TimeBodyAccelerometer.mean...Y 
@@ -115,7 +115,7 @@
 8. The dataset was then written into a tidyData.txt file using: write.table(tidyData, "tidyData.txt", row.name=FALSE)
 
 ## Data
-#Copied from the README.txt 
+### Copied from the README.txt 
 
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
