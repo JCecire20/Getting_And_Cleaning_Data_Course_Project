@@ -5,7 +5,7 @@
 - subject - subject identifier of volunteer (1-30)
 - activity - name of activity performed by subject (LAYING, SITTING, STANDING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
 
-#The variables remaining are just the calculatd means and standard deviations 
+# The variables remaining are just the calculatd means and standard deviations: 
 
 - TimeBodyAccelerometer.mean...X
 - TimeBodyAccelerometer.mean...Y 
